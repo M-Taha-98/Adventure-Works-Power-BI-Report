@@ -41,8 +41,14 @@ I’ve been exploring some advanced features in Power BI to elevate both the des
 
 ___
 
-<div align="center">
-  
-[![View LinkedIn Profile](https://img.shields.io/badge/View%20Profile%20on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadtaha-businessanalytics/)
-  
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammadtaha-businessanalytics/">
+    <img src="https://img.shields.io/badge/View%20Profile%20on-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01158dbad6fc20cf59">
+    <img src="https://img.shields.io/badge/View%20Profile%20on-Upwork-6fda44?logo=upwork&logoColor=white" alt="Upwork Profile"/>
+  </a>
+    <a href="https://www.fiverr.com/taha_mohammad?public_mode=true">
+    <img src="https://img.shields.io/badge/View%20Profile%20on-Fiverr-1DBF73?logo=fiverr&logoColor=white" alt="Fiverr Profile"/>
+  </a>
+</p>
