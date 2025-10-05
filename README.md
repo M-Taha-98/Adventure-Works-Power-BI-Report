@@ -1,6 +1,6 @@
 # Adventure-Works-Power-BI-Report
 
-###### A dynamic stakeholder exploratory dasbhboard analyzing data for simluated company named 'Adventure Works'
+###### A dynamic stakeholder exploratory dasbhboard analyzing data for 'Adventure Works'.
 
 ## Project Overview
 Adventure Works, a simulated global manufacturing company that produces cycling equipment and accessories. Their management team needs a dashboard to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers.
@@ -18,8 +18,10 @@ The dashboard capabilities are elaborated below.
 - <img height="15px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg"> Power BI
 
 ## Dashboard Design 
-
+<div align="center">
+  
 [![View Dashboard on Power BI](https://img.shields.io/badge/View%20Dashboard%20on-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiOTFhZjJlMDMtMTFkNi00ZjZjLTk0YTYtNzViODMxMTc4MDFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+</div>
 
 I’ve been exploring some advanced features in Power BI to elevate both the design and the user experience. In this report, I’ve incorporated:
 
@@ -35,8 +37,12 @@ I’ve been exploring some advanced features in Power BI to elevate both the des
 
 *Dashboard Snapshot:*<br>
 
-![image](https://github.com/user-attachments/assets/1d32f92d-7798-4658-90d5-a6f831a2b680)
+![image](https://github.com/M-Taha-98/Adventure-Works-Power-BI-Report/blob/main/SS_front.png)
 
 ___
 
+<div align="center">
+  
 [![View LinkedIn Profile](https://img.shields.io/badge/View%20Profile%20on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadtaha-businessanalytics/)
+  
+</div>
